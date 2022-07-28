@@ -10,8 +10,7 @@ body {
   background-image: url("./cube.png");
   background-repeat: no-repeat;
   background-size: 30%;
-  background-position-x: 80%;
-  background-position-y: 80%;
+  background-position: 75% 50%;
 }
 
 @media screen and (max-width: 500px) {
@@ -20,8 +19,5 @@ body {
   }
   input {
     font-size: 10px;
-  }
-  img {
-    width: 70%;
   }
 }

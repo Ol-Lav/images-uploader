@@ -1,5 +1,8 @@
-.image {
+.image__container {
   position: absolute;
   top: 15%;
   left: 50%;
+}
+.image {
+  width: 70%;
 }
