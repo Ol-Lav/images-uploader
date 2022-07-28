@@ -1,0 +1,19 @@
+.App__container {
+  width: 25%;
+  margin-top: 15%;
+  margin-left: 10%;
+  background-color: #fff;
+  color: #000;
+  border-radius: 10px;
+}
+
+input {
+  padding: 20px;
+  transition: all 0.2s ease;
+}
+
+input:hover {
+  background-color: #0000ff;
+  color: #fff;
+  border-radius: 2px;
+}

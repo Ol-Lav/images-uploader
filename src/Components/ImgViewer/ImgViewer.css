@@ -1,0 +1,23 @@
+.list {
+  list-style: none;
+}
+
+.list__item {
+  padding: 20px;
+  text-align: left;
+  border-bottom: 1px solid #000;
+  transition: all 0.2s ease-in-out;
+}
+
+.list__item:hover {
+  color: #fff;
+  background-color: #0000ff;
+  cursor: pointer;
+}
+
+.list__item-clicked {
+  padding: 20px;
+  text-align: left;
+  background-color: #ff6347;
+  border-bottom: 1px solid #000;
+}
